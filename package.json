@@ -1,0 +1,18 @@
+{
+  "name": "AdventJs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Reto#1.js",
+  "scripts": {
+    "test": "jest",
+    "test:reto1": "jest --config jest.reto1.config.js",
+    "test:reto2": "jest --config jest.reto2.config.js",
+    "test:reto3": "jest --config jest.reto3.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
